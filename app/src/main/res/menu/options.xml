@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item
+        android:id="@+id/gym"
+        android:title="Fitness Centers"
+        android:icon="@drawable/gym_map"
+        />
+    <item
+        android:id="@+id/food"
+        android:title="Meals Suggestions"
+        android:icon="@drawable/food_option"
+        />
+
+</menu>
